@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BGabor01
-- 👀 I’m interested in AI, REST technologies and much more
+- 👀 I’m interested in AI, web development technologies and much more
 
 <!---
 BGabor01/BGabor01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
